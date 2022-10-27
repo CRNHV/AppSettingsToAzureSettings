@@ -1,1 +1,1 @@
-# AppSettingsToAzureSettings
+Drop the appsettings.json you want to convert onto the EXE and the program will output a file called "app-settings.json" next to the EXE
